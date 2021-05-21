@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 26 18:56:50 2020
 
-@author: Aman
-"""
 import flask
 from flask import jsonify
 import json
